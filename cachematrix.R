@@ -1,4 +1,4 @@
-## This function calculates the inverse of a matrix for the first time and stores it a different environment (cache)
+## This function calculates the inverse of a matrix for the first time and stores it as a cache for the next time
 ## When the user wants the inverse for the same matrix for the sebsequent time, the stored cache data is returned
 
 
